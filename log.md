@@ -13,3 +13,7 @@ Day 1 went well. Made two very simple things - a [substitution cipher code gener
 ### Day 2: Sunday, March 05, 2023
 
 Made a very basic [temperature converter](https://github.com/side-corncave/C2F_and_back_converter). Spent the rest of the time learning about regular expressions. Finding regular expressions a bit difficult to grasp, might need to look for exercises online for practice.
+
+### Day 3: Monday, March 06, 2023
+
+Did some python practice problems from a book. Was extremely difficult and felt like giving almost the entire time. But somehow ended up finishing right before the timer ran out. Very glad that I stuck it out.
