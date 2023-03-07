@@ -17,3 +17,7 @@ Made a very basic [temperature converter](https://github.com/side-corncave/C2F_a
 ### Day 3: Monday, March 06, 2023
 
 Did some python practice problems from a book. Was extremely difficult and felt like giving almost the entire time. But somehow ended up finishing right before the timer ran out. Very glad that I stuck it out.
+
+### Day 4: Tuesday, March 07, 2023
+
+Continued with solving practice problems, specifically using an infinite series by Srinivasa Ramanujan to calculate the value of pi. I still do find recursive functions a bit challenging, and debugging is still very difficult. Looked a bit into the built-in options inside VS Code to debug code as well.
