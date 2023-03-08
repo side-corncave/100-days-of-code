@@ -21,3 +21,7 @@ Did some python practice problems from a book. Was extremely difficult and felt 
 ### Day 4: Tuesday, March 07, 2023
 
 Continued with solving practice problems, specifically using an infinite series by Srinivasa Ramanujan to calculate the value of pi. I still do find recursive functions a bit challenging, and debugging is still very difficult. Looked a bit into the built-in options inside VS Code to debug code as well.
+
+### Day 5: Wednesday, March 08, 2023
+
+Spent the entirety of the time on regular expressions today. It's not that this is something very difficult, the rules and syntax are a bit confusing for me (and probably other beginners as well). Watched some online videos on the topic and read the official python documentation on regular expressions. I might have to look for and design a few exercises on RE later today, and then do them tomorrow.
