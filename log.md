@@ -25,3 +25,11 @@ Continued with solving practice problems, specifically using an infinite series 
 ### Day 5: Wednesday, March 08, 2023
 
 Spent the entirety of the time on regular expressions today. It's not that this is something very difficult, the rules and syntax are a bit confusing for me (and probably other beginners as well). Watched some online videos on the topic and read the official python documentation on regular expressions. I might have to look for and design a few exercises on RE later today, and then do them tomorrow.
+
+### Day 6: Thursday, March 09, 2023
+
+Worked on solving problems. Specifically working with text from files and functions to work with them. After that, watches a few more videos on hadling files on python.
+
+### Day 7: Friday, March 10, 2023
+
+Was a very busy day and almost missed today. But glad that I managed to find some time to code. Worked on a new problem. Specifically a problem which required writing a function to do searching. Challenging work but nothing world changing. At least I'm learning and am in practice.
