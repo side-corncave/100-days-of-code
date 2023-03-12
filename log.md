@@ -34,6 +34,6 @@ Worked on solving problems. Specifically working with text from files and functi
 
 Was a very busy day and almost missed today. But glad that I managed to find some time to code. Worked on a new problem. Specifically a problem which required writing a function to do searching. Challenging work but nothing world changing. At least I'm learning and am in practice.
 
-### Day 8: Saturday, March 11, 2023
+### Day 8: Sunday, March 12, 2023
 
 Another day of trying to solve puzzles. After I was done, I checked a possible solution. It seems that an issue now is that the way I think is often too complicated. The problem with this is that it is often difficult for me to approach a solution in this way, and it is very easy for bugs to to appear in the code. I'm not entirely certain on how to address this issue in my code. One possible way might be trying to read more code and trying to understand how they work and why things are done the way they are. And of course, practice would probably help.
