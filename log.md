@@ -37,3 +37,7 @@ Was a very busy day and almost missed today. But glad that I managed to find som
 ### Day 8: Sunday, March 12, 2023
 
 Another day of trying to solve puzzles. After I was done, I checked a possible solution. It seems that an issue now is that the way I think is often too complicated. The problem with this is that it is often difficult for me to approach a solution in this way, and it is very easy for bugs to to appear in the code. I'm not entirely certain on how to address this issue in my code. One possible way might be trying to read more code and trying to understand how they work and why things are done the way they are. And of course, practice would probably help.
+
+### Day 9: Monday, March 13, 2023
+
+Spent the day solving practice problems again. While it's true that this is a bit different from the initial plan I made, this has been helpful so far because it's helping me gain better clarity on a lot of basic aspects of python programming. Working through the problems of the textbook really has been hard, challenging and helpful till now.
