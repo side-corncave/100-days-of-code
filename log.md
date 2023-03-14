@@ -41,3 +41,7 @@ Another day of trying to solve puzzles. After I was done, I checked a possible s
 ### Day 9: Monday, March 13, 2023
 
 Spent the day solving practice problems again. While it's true that this is a bit different from the initial plan I made, this has been helpful so far because it's helping me gain better clarity on a lot of basic aspects of python programming. Working through the problems of the textbook really has been hard, challenging and helpful till now.
+
+### Day 10: Tuesday, March 14, 2023
+
+New day, new set of problems to solve (focus on lists today). Today was relatively easier, not sure if that is because the problems were simpler, or I am getting better at thinking about problems. Probably both, with the first being the bigger reason.
