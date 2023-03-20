@@ -45,3 +45,7 @@ Spent the day solving practice problems again. While it's true that this is a bi
 ### Day 10: Tuesday, March 14, 2023
 
 New day, new set of problems to solve (focus on lists today). Today was relatively easier, not sure if that is because the problems were simpler, or I am getting better at thinking about problems. Probably both, with the first being the bigger reason.
+
+### Day 11: Monday, March 15, 2023
+
+Went through some extremely intense days and was away from desk. Thought about how missing the challenge was such a big problem, but couldn't/didn't find the time. Spent today solving a few more problems.
